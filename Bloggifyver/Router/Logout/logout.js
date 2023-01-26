@@ -1,0 +1,1 @@
+//when user logout the click than database fetch the userId  and after that its delete the current session 
